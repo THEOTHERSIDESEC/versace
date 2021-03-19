@@ -16,4 +16,4 @@ Enjoy
 
 • cd versace
 
-• python2 horizon.py
+• python2 versace.py
